@@ -272,10 +272,6 @@ The first line declares a new variable, or ```var```, literally reserving some s
 * no spaces
 * each word after the first word has an uppercase letter
 
-
-### End of Class
-* Submit your work for class credit.  On your desktop, create a folder with your name.  Put your work into that folder.  Drag the folder into the shared folder [here](https://drive.google.com/drive/folders/1RyZIK_6-daOyNWgiHOiBp-woaZrU77X-?usp=sharing).
-
 ### Further Exploration
  * [FreeCodeCamp exercises](https://www.freecodecamp.org): All of the JavaScript exercises.
 * [W3Schools Intro to JavaScript](https://www.w3schools.com/js/js_intro.asp)

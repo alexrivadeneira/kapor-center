@@ -245,10 +245,6 @@ myElement.style.animationName = "myAnimation";
 * Remember: the CSS style ```animation-duration``` accepts a string in the format "some number plus the letter s", eg ```5s```.  So you'll have to figure out how to manipulate your strings to get this desired input.
 
 
-### End of Class
-* Submit your work for class credit.  On your desktop, create a folder with your name.  Put your work into that folder.  Drag the folder into the shared folder [here](https://drive.google.com/drive/folders/15pl4yzGx6OhXQKHbW8g1cKAkvKkaJenn?usp=sharing).
-
-
 ### Further Exploration
 * Check out other computer-related events at the [Library](https://www.berkeleypubliclibrary.org/events/computers)!
 * [FreeCodeCamp exercises](https://www.freecodecamp.org): Keep going!

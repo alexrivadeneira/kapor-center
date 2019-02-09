@@ -248,9 +248,6 @@ Stretch goals:
 * Add in trees, mountains, lakes - create a scene!
 * Read more about CSS Animations [here](https://www.w3schools.com/css/css3_animations.asp)
 
-### End of Class
-* Submit your work for class credit.  On your desktop, create a folder with your name.  Put your work into that folder.  Drag the folder into the shared folder [here](https://drive.google.com/drive/folders/1xwPCotd3c9eIDqwDBhg_UEZ_QJETePuR?usp=sharing).
-
 ### Further Exploration
  * [FreeCodeCamp exercises](https://www.freecodecamp.org): “Front End Development Certifications” > “HTML5 and CSS” – complete all of the exercises there (through “Use RGB to Mix Colors”)
 * Read more about CSS Animations [here](https://www.w3schools.com/css/css3_animations.asp)
