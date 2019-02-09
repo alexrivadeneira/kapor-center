@@ -21,7 +21,7 @@
 ### Sublime
 Sublime is code editing program.  Most importantly, Sublime provides **syntax highlighting** meaning it adds color to our code to help us visualize its structure.  **Syntax** refers to the structure of our code and the rules that govern that structure.  
 
-**Can you remember some rules about HTML code from last class?**
+**Can you remember some rules about HTML code from last session?**
 
 ```
 <h1> My header </h1>

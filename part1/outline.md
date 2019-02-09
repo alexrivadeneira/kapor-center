@@ -5,17 +5,13 @@ Welcome to Class!
 ### As you come in:
 
 * Navigate to [nerdyperson.com](http://www.nerdyperson.com) (This webpage)
-* Sign up at [FreeCodeCamp](http://freecodecamp.org)
+* Download [Sublime Text Editor](https://www.sublimetext.com)
+* Download [Google Chrome](https://www.google.com/chrome/)
 
 ### Class goals
 * Transition from web consumer to producer/maker/creator
 * Create an interactive web application from scratch using JavaScript
 * Review HTML, CSS and build back up to JavaScript
-
-### Changing perspective from web content consumer to producer
-* "Peek behind the curtain" with Chrome developer tools.  Right click: "View Page Source"
-* Set up your first HTML file.  In Notepad, select File > Save As.  Save your file as anything.html
-* Notice, this file isn't a text file anymore! Now it's a webpage file (HTML file)
 
 ### HTML Tags
 * HTML tags are the building blocks of webpages.  Most tags have an opening and closing tag that you can put stuff between (**nesting**).
@@ -192,6 +188,6 @@ Now I have to apply my style class to the second paragraph.  I use the class att
 
 ### Further Exploration
 * ["Fixed mindset" vs "Growth mindset" video and discussion, Carol Dweck](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
- * View code source on some of your favorite webpages
+ * View source code on some of your favorite webpages
  * [FreeCodeCamp exercises](https://www.freecodecamp.org): Basic HTML and HTML5, Basic CSS
 * [W3Schools exercises](https://www.w3schools.com/html/exercise.asp?filename=exercise_attributes1)
